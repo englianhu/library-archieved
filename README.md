@@ -92,6 +92,7 @@
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [书栈网](https://www.bookstack.cn/explore) ❤️‍🔥
 - [Linux命令大全搜索工具 v1.8.2](https://www.bookstack.cn/read/linux-command-1.8.2/README.md) ❤️‍🔥
+- [GitHub : xckevin/books](https://github.com/xckevin/books)
 
 ---
 
