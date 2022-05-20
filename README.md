@@ -53,6 +53,7 @@
 >百家齐放，诸子争鸣
 
 *出处：[墨教是什么？需要复兴吗？](https://cul.qq.com/a/20150716/018081.htm)*
+
 <br>
 <br>
 
@@ -88,6 +89,9 @@
 - [近十年量化交易领域最重要的十本参考书是哪些？](https://www.zhihu.com/question/23857983)
 - [量化一般用什么软件比较好，在哪里下载，还有一般量化的平台都有哪些呀？](https://www.zhihu.com/question/62413612)
 - [本期我们要介绍的是2020年部分量化、交易、策略、算法论文：QIML精选](http://www.drzxpe.cn/content/017xcud99thgdmj6tiql.html)
+- [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+- [书栈网](https://www.bookstack.cn/explore) ❤️‍🔥
+- [Linux命令大全搜索工具 v1.8.2](https://www.bookstack.cn/read/linux-command-1.8.2/README.md) ❤️‍🔥
 
 ---
 
