@@ -91,9 +91,12 @@
 - [本期我们要介绍的是2020年部分量化、交易、策略、算法论文：QIML精选](http://www.drzxpe.cn/content/017xcud99thgdmj6tiql.html)
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [书栈网](https://www.bookstack.cn/explore) ❤️‍🔥
+- [BOOKDOWN](https://bookdown.org) ❤️‍🔥
 - [Linux命令大全搜索工具 v1.8.2](https://www.bookstack.cn/read/linux-command-1.8.2/README.md) ❤️‍🔥
 - [GitHub : xckevin/books](https://github.com/xckevin/books)
 - [GitHub : StveenLi/books](https://github.com/StveenLi/books)
+- [Big Book of R](https://www.bigbookofr.com) ❤️‍🔥
+- [简书：高级R与Shiny应用](https://www.jianshu.com/p/e9250c06502a)
 
 ---
 
