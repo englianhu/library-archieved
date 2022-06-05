@@ -70,6 +70,7 @@
 - [洪永淼 - 高级计量经济学](https://netcourse.xmu.edu.cn/ae)
 - [网易公开课](https://open.163.com)
 - [一起大数据](http://www.17bigdata.com/category/%e6%95%b0%e6%8d%ae%e7%94%b5%e5%ad%90%e4%b9%a6)
+- [量化投资学习推荐的书籍都有哪些？](https://www.zhihu.com/question/54727745) ❤️‍🔥
 - [[书籍介绍] 史上最强悍R+Python书籍合集](https://bbs.pinggu.org/thread-6507435-1-1.html)
 - [量化交易员珍藏的10本书，一般人不会教你的事](https://www.laohu8.com/post/925876362)
 - [量化入门必读的](https://www.zhihu.com)
@@ -100,5 +101,5 @@
 
 ---
 
-[<img src="figure/Scibrokes.png" width="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
-<span style='color:RoyalBlue'>**[<img src="figure/Scibrokes.png" width="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
+[<img src="figure/Scibrokes.png" height="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
+<span style='color:RoyalBlue'>**[<img src="figure/Scibrokes.png" height="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
