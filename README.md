@@ -89,6 +89,8 @@
 - [金工量化优质书单推荐及下载](https://www.cxybb.com/article/m0_37639589/90765551)
 - [近十年量化交易领域最重要的十本参考书是哪些？](https://www.zhihu.com/question/23857983)
 - [量化一般用什么软件比较好，在哪里下载，还有一般量化的平台都有哪些呀？](https://www.zhihu.com/question/62413612)
+- [量化投资数据挖掘技术与实践 PDF，求量化投资入门书籍或课程推介。](http://www.v62ay.cn/content/y2hsoxyutno767j1u7lv.html) ❤️‍🔥
+- [AI-DL-NLP-CV-BOOK](https://ai-nlp-book.lofter.com/post/312661e1_1c7718fc0) ❤️‍🔥
 - [本期我们要介绍的是2020年部分量化、交易、策略、算法论文：QIML精选](http://www.drzxpe.cn/content/017xcud99thgdmj6tiql.html)
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [书栈网](https://www.bookstack.cn/explore) ❤️‍🔥
