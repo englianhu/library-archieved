@@ -94,8 +94,6 @@
 - [书栈网](https://www.bookstack.cn/explore) ❤️‍🔥
 - [BOOKDOWN](https://bookdown.org) ❤️‍🔥
 - [Linux命令大全搜索工具 v1.8.2](https://www.bookstack.cn/read/linux-command-1.8.2/README.md) ❤️‍🔥
-- [GitHub : xckevin/books](https://github.com/xckevin/books)
-- [GitHub : StveenLi/books](https://github.com/StveenLi/books)
 - [GitHub : ML_Books](https://github.com/englianhu/ML_Books) ❤️‍🔥
 - [GitHub : 书籍 Book](https://github.com/englianhu/Book) ❤️‍🔥
 - [Big Book of R](https://www.bigbookofr.com) ❤️‍🔥
