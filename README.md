@@ -103,6 +103,7 @@
 - [知乎：量化投资学习推荐的书籍都有哪些？](https://www.zhihu.com/question/54727745)
 - [GitHub : Repository for distributing (some) stan-dev R packages](https://github.com/englianhu/r-packages)
 - [书栈网](https://www.bookstack.cn/user/englianhu)
+- [中国知网](https://cdmd.cnki.com.cn)
 
 ---
 
