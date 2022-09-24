@@ -102,8 +102,20 @@
 - [简书：高级R与Shiny应用](https://www.jianshu.com/p/e9250c06502a)
 - [知乎：量化投资学习推荐的书籍都有哪些？](https://www.zhihu.com/question/54727745)
 - [GitHub : Repository for distributing (some) stan-dev R packages](https://github.com/englianhu/r-packages)
-- [书栈网](https://www.bookstack.cn/user/englianhu)
+- [汉斯 - 中文开源期刊（安全网）](https://www.hanspub.org) （[汉斯 - 中文开源期刊](http://www.hanspub.org)）
 - [中国知网](https://cdmd.cnki.com.cn)
+- [Library Genesis](https://libgen.is/setlang.php?lang=en)
+- [infoQ 促进软件开发及相关领域知识与创新的传播](https://www.infoq.cn)
+- [Academia 学术界](https://www.academia.edu)
+- [ResearchGates 研究之门](http://researchgates.net)
+- [GitHub Community 猫舍交流社区](https://github.com/orgs/community)
+- [十大论文网站排名 大雅上榜 知网中国知名的论文网站之一](https://www.yezicc.com/keji/2021051824925.html) ❤️‍🔥
+- [【馆】个人图书馆](http://www.360doc.com)
+- [🎓研究生2.0](https://researcher20.com)
+- [ZOL中关村在线 - 引领科技，指导消费](https://www.zol.com.cn)
+- [cnki中国知网 - 中国知识基础设施工程](https://www.cnki.net)
+- [范文中心](http://fanwen.geren-jianli.org)
+- [雙清學術出版社](https://www.qingpress.com/zh-cn)
 
 ---
 
