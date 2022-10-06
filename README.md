@@ -41,6 +41,11 @@
 - [名将司马错有多厉害？历经3任秦王一直被重用，位高权重而得善终](https://baijiahao.baidu.com/s?id=1640181760652238276&wfr=spider&for=pc&searchword=%E5%8F%B8%E9%A9%AC%E9%94%99）
 - []()
 
+> [第一集：追光](https://news.cctv.com/2022/10/04/ARTI6s4mHfV4VBPvNI8U2tfp221004.shtml)
+> 
+
+**
+
 > 走过天涯路　终究还是回头<br>
 > 看尽花似海　如雪落<br>
 > 难舍情和义　恩仇随风飘过<br>
