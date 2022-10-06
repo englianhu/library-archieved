@@ -48,7 +48,7 @@
 
 > 《学习强国》<br>
 > [《追光》第一集：强国必须强军](https://news.cctv.com/2022/10/04/ARTI6s4mHfV4VBPvNI8U2tfp221004.shtml)<br>
-> [《铸牢强军之魂》]()<br>
+> [《追光》第二集：铸牢强军之魂](https://m.jxnews.com.cn/news/system/2022/10/04/019799872.shtml)<br>
 > [《传承红色基因》]()<br>
 > [《深谋战之方略》]()<br>
 > [《锻造胜战之师》]()<br>
