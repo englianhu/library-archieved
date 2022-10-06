@@ -1,8 +1,8 @@
-<img src="figure/baike.jpg" width="200"/>
+<img src='文艺坊图库/baike.jpg' width='200'/>
 
 ---
 
-[<img src='figure/RStudioCloud.png' height='20'>](https://rstudio.cloud) [<img src='figure/RStudioCom2.png' height='20'>](https://community.rstudio.com/new-topic?category=shiny&tags=shiny) [![](figure/shiny-badge.svg)](https://www.shinyapps.io)
+[<img src='文艺坊图库/RStudioCloud.png' height='20'>](https://rstudio.cloud) [<img src='文艺坊图库/RStudioCom2.png' height='20'>](https://community.rstudio.com/new-topic?category=shiny&tags=shiny) [![](文艺坊图库/shiny-badge.svg)](https://www.shinyapps.io)
 
 # library 图书馆
 
@@ -38,6 +38,32 @@
 - 🇮🇩印尼与Polish🇵🇱首都华夏学说、🇺🇦乌克兰与🇲🇾玻璃市学说、🇬🇧英国最高荣誉警察为Sir公爵、挟🇬🇧天子令🌏诸侯、警察乃🇺🇸美国人是也（夏朝开国皇帝大禹学说 : 祝你<s>岁月</s>碎月无<s>波澜</s>🇵🇱Polish，祝我<s>余</s>虞/禹🐟生不悲欢）、🇭🇺匈牙利---匈奴人学说、🇨🇿首都布拉格<s>Praha</s>Black Jack 21点学说、🇱🇦辽国耶律氏犹太人学说、🇻🇳金国完颜氏越南人学说、🇹🇼🇨🇳中国象棋楚河汉界学说、🌏亚洲秦国🇹🇭泰国/🇯🇵东瀛是也、🇪🇺欧洲秦国🇬🇧英国是也、地球🌏秦国🇺🇸美国是也（史记原著宦官司马迁、鬼谷子弟子孙膑庞涓俩---兵法家宦官孙膑、三黄五帝三五成群、《寻秦记》的赵盘---盘古开天辟地、女娲补天的故事---塑造粘土人形娃娃为兵马俑之说、笑傲江湖---越南越王勾践胡志明，明朝与江泽民与胡景涛学说），🚩☭🇷🇺商鞅变法、如同🇺🇸美国富兰克林·德拉诺·罗斯福与🇪🇺北约与🚩☭苏联红军约瑟夫·斯大林与🇮🇹贝尼托·阿米尔卡雷·安德烈亚·墨索里尼与🇩🇪卐阿道夫·希特勒与🇯🇵日本明治🎎天皇、清末民初，为世界二战（🌼织田信长京都不死鸟🐦《信长之野望》）至苏美冷战瓦解苏联红军🚩☭乃飞鸟尽良弓🚩☭藏之论
 - 🇪🇺欧洲最早的是意大利🇮🇹天主教、而✝基督教耶稣是圣母玛丽亚之子，🇮🇹[哥伦布发现新大陆](https://baike.baidu.com/item/%E5%93%A5%E4%BC%A6%E5%B8%83%E5%8F%91%E7%8E%B0%E6%96%B0%E5%A4%A7%E9%99%86/6811206)、而[天主教的起源](https://kknews.cc/history/okjrgk6.html)来自于公元前1003年🇮🇱。
 - 生肖Chinese Zodiac东方神明，蓄着须子的🇻🇳🚩☭越王胡志明Goat🐐、[左派和右派](https://baike.baidu.com/item/%E5%B7%A6%E6%B4%BE%E5%92%8C%E5%8F%B3%E6%B4%BE/5977871)、[论“除左籍”——科普左右划分基本标准](https://zhuanlan.zhihu.com/p/130715171)、《倚天屠龙记》中的范右使和杨左使、范蠡、范增、范雎🌾🍚🍙（🇬🇧米字、美国的日语称为：🇺🇸米国）、金朝（1115年—1234年），完颜阿骨打所建，享国119年。后金（1616年—1636年），努尔哈赤所建，仅存在20年（过渡时期）。[清朝前期叫大金国，和宋朝对峙的金国是一家的吗？](http://m.news.xixik.com/content/2c2a1620e65f0809/)、世界分别🚩☭东🇺🇸西楚汉之争[建国史话 (206): 冷战时期](https://www.voachinese.com/a/article-20120317-making-of-nation-206-143058266/947599.html)
+- [百度百科：盘点英国当年的殖民地，哪些发展得非常好，很多成为了发达国家播](https://baijiahao.baidu.com/s?id=1682116544423085495)
+- [百度百科：英国殖民地](https://baike.baidu.com/item/%E8%8B%B1%E5%9B%BD%E6%AE%96%E6%B0%91%E5%9C%B0/1073669)
+- [从地图看春秋战国的版图变迁：550年，中国从大分裂走向了大一统](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9774531278572757086%22%7D&n_type=1&p_from=4)
+- [名将司马错有多厉害？历经3任秦王一直被重用，位高权重而得善终](https://baijiahao.baidu.com/s?id=1640181760652238276)
+- [司马错伐蜀，真的没那么容易，秦国历经三次才最终定蜀](https://baijiahao.baidu.com/s?id=1672536956606025945)
+- [司马错，常被后世忽视的战国时代“唯二”战略家之一](https://baijiahao.baidu.com/s?id=1667270194796582891)
+- [量化对冲之王Two Sigma首发基金布局在岸期货市场](https://www.yicai.com/news/100597911.html)
+
+> 《学习强国》<br>
+> [《追光》第一集：强国必须强军](https://news.cctv.com/2022/10/04/ARTI6s4mHfV4VBPvNI8U2tfp221004.shtml)<br>
+> [《铸牢强军之魂》]()<br>
+> [《传承红色基因》]()<br>
+> [《深谋战之方略》]()<br>
+> [《锻造胜战之师》]()<br>
+> [《运筹打赢之道》]()<br>
+> [《改革重塑重构》]()<br>
+> [《推进军事创新》]()<br>
+> [《汇聚天下英才》]()<br>
+> [《夯实强军之基》]()<br>
+> [《建设打仗后勤》]()<br>
+> [《淬炼大国利刃》]()<br>
+> [《强固制胜优势》]()<br>
+> [《强力正风肃纪》]()<br>
+> [《迈向世界一流》]()<br>
+
+*出处：[学习强国](https://www.xuexi.cn)*
 
 > 走过天涯路　终究还是回头<br>
 > 看尽花似海　如雪落<br>
@@ -116,8 +142,9 @@
 - [cnki中国知网 - 中国知识基础设施工程](https://www.cnki.net)
 - [范文中心](http://fanwen.geren-jianli.org)
 - [雙清學術出版社](https://www.qingpress.com/zh-cn)
+- [码农家园](https://www.codenong.com)
 
 ---
 
-[<img src="figure/Scibrokes.png" height="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
-<span style='color:RoyalBlue'>**[<img src="figure/Scibrokes.png" height="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
+[<img src="文艺坊图库/Scibrokes.png" height="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
+<span style='color:RoyalBlue'>**[<img src="文艺坊图库/Scibrokes.png" height="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
