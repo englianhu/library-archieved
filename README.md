@@ -10,7 +10,7 @@
 
 [**《百家争鸣》**](https://baike.baidu.com/item/%E7%99%BE%E5%AE%B6%E4%BA%89%E9%B8%A3/5549)
 <br>
-<audio controls loop autoplay src="music/问百度.mp3" controls></audio>
+<audio controls loop autoplay src="文艺坊曲库/问百度.mp3" controls></audio>
 <br>
 <br>
 
@@ -48,22 +48,22 @@
 
 > 《学习强国》<br>
 > [《追光》第一集：强国必须强军](https://news.cctv.com/2022/10/04/ARTI6s4mHfV4VBPvNI8U2tfp221004.shtml)<br>
-> [《铸牢强军之魂》]()<br>
-> [《传承红色基因》]()<br>
-> [《深谋战之方略》]()<br>
-> [《锻造胜战之师》]()<br>
-> [《运筹打赢之道》]()<br>
-> [《改革重塑重构》]()<br>
-> [《推进军事创新》]()<br>
-> [《汇聚天下英才》]()<br>
-> [《夯实强军之基》]()<br>
-> [《建设打仗后勤》]()<br>
-> [《淬炼大国利刃》]()<br>
-> [《强固制胜优势》]()<br>
-> [《强力正风肃纪》]()<br>
-> [《迈向世界一流》]()<br>
+> [《追光》第二集：铸牢强军之魂](https://news.cctv.com/2022/10/04/ARTIJEcTtKZwkTOrH3J0GW96221004.shtml)<br>
+> [《追光》第三集：传承红色基因](https://news.cctv.com/2022/10/06/ARTILs4mGcvdURRKWrFBFO90221006.shtml)<br>
+> [《追光》第四集：深谋战之方略]()<br>
+> [《追光》第五集：《锻造胜战之师》]()<br>
+> [《追光》第六集：《运筹打赢之道》]()<br>
+> [《追光》第七集：《改革重塑重构》]()<br>
+> [《追光》第八集：《推进军事创新》]()<br>
+> [《追光》第九集：《汇聚天下英才》]()<br>
+> [《追光》第十集：《夯实强军之基》]()<br>
+> [《追光》第十一集：《建设打仗后勤》]()<br>
+> [《追光》第十二集：《淬炼大国利刃》]()<br>
+> [《追光》第十三集：《强固制胜优势》]()<br>
+> [《追光》第十四集：《强力正风肃纪》]()<br>
+> [《追光》第十五集：《迈向世界一流》]()<br>
 
-*出处：[学习强国](https://www.xuexi.cn)*
+*出处：[重磅！10月4日，一起《追光》](https://news.cctv.com/2022/10/03/ARTINUFNBybIBrx1WFIRJg3P221003.shtml)，欲知更多详情请查阅[学习强国](https://www.xuexi.cn)*
 
 > 走过天涯路　终究还是回头<br>
 > 看尽花似海　如雪落<br>
