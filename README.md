@@ -6,13 +6,30 @@
 
 # library 图书馆
 
-🐾《问百度》🎼
+![](文艺坊图库/红旗礼逆袭.gif)
+
+《量化吟》
+🚩高频量化，对冲基金；
+🚩世博量化，点缀全球。
+🚩逆水行舟，不进则退；
+🚩学海无涯，唯勤是岸。
+🚩红旗中科，同舟共济；
+🚩不忘初心，方得始终。
+
+🐾《子曰》🎼
 
 [**《百家争鸣》**](https://baike.baidu.com/item/%E7%99%BE%E5%AE%B6%E4%BA%89%E9%B8%A3/5549)
 <br>
-<audio controls loop autoplay src="文艺坊曲库/问百度.mp3" controls></audio>
+<audio controls loop autoplay src="文艺坊曲库/子曰.webm" controls></audio>
 <br>
 <br>
+
+- [孔子学院为什么会失败？中国文化该如何走向世界？](https://view.inews.qq.com/k/20210420A03XGS00)
+- [【百度百科】孔子学院为何会失败？中国文化该如何走向世界？](https://baijiahao.baidu.com/s?id=1684878542008319314)
+- [【原创】孔子学院大量关闭原因与未来](https://www.jianshu.com/p/4cd06fabaef0)
+- [ 孔子学院海外传播现状及美国孔子学院遭拒的原因浅析](https://wenku.baidu.com/view/26dda6106d1aff00bed5b9f3f90f76c660374ccb.html)
+- [【今日头条】孔子学院为什么会失败？中国文化该如何走向世界？](https://www.toutiao.com/article/6901260292831953412/?app=news_article&timestamp=1606863367&use_new_style=1&req_id=20201202065607010026077213394BF044&group_id=6901260292831953412&tt_from=copy_link&utm_source=copy_link&utm_medium=toutiao_ios&utm_campaign=client_share&source=m_redirect&wid=1665068156693)
+- [博客园：【历史只是借鉴】 疫情连三年，家书抵万金。](https://www.cnblogs.com/englianhu/p/16377047.html)
 
 ## 学说
 
@@ -91,7 +108,7 @@
 
 🐾《问百度》🎼
 
-- [GitHub: scibrokes/real-time-fxcm/reference](https://github.com/scibrokes/real-time-fxcm/tree/master/reference)
+- [猫城仓库：scibrokes/real-time-fxcm/reference](https://github.com/scibrokes/real-time-fxcm/tree/master/reference)
 - [GitHub: englianhu/binary.com-interview-question/reference](https://github.com/englianhu/binary.com-interview-question/tree/master/reference)
 - [微信：给大家分享一些电子书~](https://mp.weixin.qq.com/s/mX-8eLsVtW7r4SquX3TGwQ?fbclid=IwAR2upRLH6E8x1lAGNgoLptItZkGHdSBoDX0FXJdbWeCnUDk2xtGgXz1p2jg)
 - [喜欢“统计之美”的读者还喜欢](https://qciss.net/books/30490203)
