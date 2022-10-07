@@ -164,6 +164,8 @@
 - [范文中心](http://fanwen.geren-jianli.org)
 - [雙清學術出版社](https://www.qingpress.com/zh-cn)
 - [码农家园](https://www.codenong.com)
+- [数学建模社区](http://www.madio.net)
+- [数学中国](http://mathchina.com/bbs)
 
 ---
 
