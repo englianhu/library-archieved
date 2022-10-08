@@ -176,6 +176,7 @@
 - [数学中国](http://mathchina.com/bbs)
 - [龙源期刊网](http://www.qikan.com.cn)
 - [中国知网](https://kns.cnki.net)
+- [未来智库](https://www.vzkoo.com)
 
 ---
 
