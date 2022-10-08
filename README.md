@@ -170,6 +170,7 @@
 - [ZOL中关村在线 - 引领科技，指导消费](https://www.zol.com.cn)
 - [cnki中国知网 - 中国知识基础设施工程](https://www.cnki.net)
 - [范文中心](http://fanwen.geren-jianli.org)
+- [词林](http://www.cilin.org)
 - [雙清學術出版社](https://www.qingpress.com/zh-cn)
 - [码农家园](https://www.codenong.com)
 - [数学建模社区](http://www.madio.net)
