@@ -174,6 +174,8 @@
 - [码农家园](https://www.codenong.com)
 - [数学建模社区](http://www.madio.net)
 - [数学中国](http://mathchina.com/bbs)
+- [龙源期刊网](http://www.qikan.com.cn)
+- [中国知网](https://kns.cnki.net)
 
 ---
 
