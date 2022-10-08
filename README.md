@@ -177,6 +177,11 @@
 - [龙源期刊网](http://www.qikan.com.cn)
 - [中国知网](https://kns.cnki.net)
 - [未来智库](https://www.vzkoo.com)
+- [钛学术](https://www.taixueshu.com)
+- [万方数据](wanfangdata.com.cn)
+- [ZS文档](https://www.zsdocx.com)
+- [豆丁](https://www.docin.com)
+- [掌桥科研](https://www.zhangqiaokeyan.com)
 
 ---
 
