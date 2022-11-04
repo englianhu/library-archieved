@@ -105,6 +105,7 @@
 - [金庸小说历经宋元明清四个朝代，为何偏偏没有唐朝？原因很现实](https://www.360kuai.com/pc/9753ef832030ee752?cota=3&kuai_so=1&sign=360_e39369d1)
 - [明朝的火器很强大？看看明朝与同时期欧洲的火器对比就知道了](https://baijiahao.baidu.com/s?id=1736022093984114925&wfr=spider&for=pc&searchword=%E6%98%8E%E4%BB%A3%E7%81%AB%E6%9E%AA%E8%A5%BF%E6%B4%8B%E5%86%9B%E4%BA%8B%E6%AD%A6%E5%99%A8)
 - 🇯🇵日本战国与🇹🇼🇨🇳中国明朝与🇪🇺欧洲中世纪文艺复兴时一个时期、🇯🇵明治维新励志学习🇪🇺欧洲技术
+- [蒙古究竟是依靠什么撑起经济，建立四大汗国？](https://baijiahao.baidu.com/s?id=1590989201480538828&wfr=spider&for=pc&searchword=%E5%8F%A4%E4%BB%A3%E8%92%99%E5%8F%A4%E8%A5%BF%E5%BE%81%E5%A6%82%E4%BD%95%E5%8F%91%E5%B1%95%E7%BB%8F%E6%B5%8E)
 <br>
 <br>
 
