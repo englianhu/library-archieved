@@ -103,7 +103,7 @@
 
 - [查良庸---金庸除了《越女剑》以越王勾践为题材，其余多以《宋、明、清》为题材](https://zhidao.baidu.com/question/13556816.html)
 - [金庸小说历经宋元明清四个朝代，为何偏偏没有唐朝？原因很现实](https://www.360kuai.com/pc/9753ef832030ee752?cota=3&kuai_so=1&sign=360_e39369d1)
-- [](https://baijiahao.baidu.com/s?id=1736022093984114925&wfr=spider&for=pc&searchword=%E6%98%8E%E4%BB%A3%E7%81%AB%E6%9E%AA%E8%A5%BF%E6%B4%8B%E5%86%9B%E4%BA%8B%E6%AD%A6%E5%99%A8)
+- [明朝的火器很强大？看看明朝与同时期欧洲的火器对比就知道了](https://baijiahao.baidu.com/s?id=1736022093984114925&wfr=spider&for=pc&searchword=%E6%98%8E%E4%BB%A3%E7%81%AB%E6%9E%AA%E8%A5%BF%E6%B4%8B%E5%86%9B%E4%BA%8B%E6%AD%A6%E5%99%A8)
 - 🇯🇵日本战国与🇹🇼🇨🇳中国明朝与🇪🇺欧洲中世纪文艺复兴时一个时期、🇯🇵明治维新励志学习🇪🇺欧洲技术
 <br>
 <br>
