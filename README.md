@@ -75,6 +75,20 @@
 - [观察丨非媒：“一带一路”倡议是中国共产党建党百年重要资产](https://baijiahao.baidu.com/s?id=1707256408840556341)
 - [海外党建——“一带一路”建设的强大动力](http://dangjian.people.com.cn/n1/2016/0825/c117092-28666127.html)
 
+> 🚩孙武孙文，得一文一武者，得天下。
+> 🚩蒙恬蒙毅，得一文一武者，得天下。
+> 🚩奉先奉孝，得一文一武者，得天下。
+> 🚩曹公陈公，互相配合，则可得天下。（东盟如同欧盟各自为国，而美国和中国都是泱泱大国）
+> 🚩Great Britain = 大英帝国
+> 🚩Greater Chin = 大秦赋/大秦帝国
+> 🚩Republic of Chin = 大秦赋/中华民国
+> 🚩Republic People of Chin = 大秦赋/中华人民共和国
+> 🚩Greater Chinese = 大秦子民（爱民如子）
+> 🚩Oversea Greater Chinese = 海外大秦子民（爱民如子）
+> 🚩Oversea Greater Chinese Union = 海外大秦子民公会（🌟陈祯禄公爵/秦孝公/姜太公）
+
+*出处：*
+
 > **《大秦赋 --- 一统天下》**<br>
 > **秦人牧马，叶从亚来；**<br>
 > **大秦帝国，千古一帝。**<br>
