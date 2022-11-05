@@ -85,7 +85,7 @@
 > 
 > 注释：中国政府也在美洲委内瑞拉、智利、阿根廷也建立军事基地
 
-- **出处：https://github.com/scibrokes/setup-centOS7-DO/issues/2#issuecomment-1304503698**❤️‍🔥❤️‍🔥
+*出处：https://github.com/scibrokes/setup-centOS7-DO/issues/2#issuecomment-1304503698❤️‍🔥❤️‍🔥*
 
 > 《学习强国》<br>
 > [《追光》第一集：强国必须强军](https://news.cctv.com/2022/10/04/ARTI6s4mHfV4VBPvNI8U2tfp221004.shtml)<br>
