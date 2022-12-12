@@ -215,6 +215,7 @@
 - [ZS文档](https://www.zsdocx.com)
 - [豆丁](https://www.docin.com)
 - [掌桥科研](https://www.zhangqiaokeyan.com)
+- [PDF之家](https://homeofpdf.com/index.html)
 
 ---
 
