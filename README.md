@@ -75,6 +75,7 @@
 - [观察丨非媒：“一带一路”倡议是中国共产党建党百年重要资产](https://baijiahao.baidu.com/s?id=1707256408840556341)
 - [海外党建——“一带一路”建设的强大动力](http://dangjian.people.com.cn/n1/2016/0825/c117092-28666127.html)
 - [世界军火市场风向变了，中美企业快占满前十名，俄罗斯一家都没了](https://open.toutiao.com/a7174323153001251363/?utm_campaign=open&utm_medium=webview&utm_source=mi_mcc_api_2019&req_id=202212121755070101512130790614D2ED&device_brand=&dt=Redmi+7A&label=mi_mcc_api&a_t=AaRKWL08j3rRMSUb8sg58HBeej1MXvUx8ewq7bjQErFUi16DwEcxgpXSUzmuNQ8y5CUFLTWW&gy=cc1072953bd514b388e5175566825bac10a66f494272f91362dd82514b2114163089e6b2bfd2fb061b1e64df74d4854ef4fdb3e9afc8645c98d3e060aea27cecdb1eb9a62a021237d546d9a2d01d2be382cf143ceb37f46c1fe89872dda53088be29cb3946272c40af1ef7c4484d59093365afecd992ca52c6a724f60aed4fe9&crypt=4498&item_id=7174323153001251363&bizDocId=toutiao_newhome_7174323153001251363)
+- http://cpc.people.com.cn/n1/2022/1210/c164113-32584714.html
 
 > 🚩孙武孙文，得一文一武者，得天下。<br>
 > 🚩蒙恬蒙毅，得一文一武者，得天下。<br>
@@ -98,7 +99,7 @@
 > **横跨七洲，一统天下；**<br>
 > **不忘初心，方得始终。**<br>
 > 
-> 注释：中国政府也在美洲委内瑞拉、智利、阿根廷也建立军事基地
+> 注释：中国政府也在美洲委内瑞拉、智利、阿根廷、欧亚非金三角吉布提也建立军事基地
 
 *出处：https://github.com/scibrokes/setup-centOS7-DO/issues/2#issuecomment-1304503698❤️‍🔥❤️‍🔥*
 
