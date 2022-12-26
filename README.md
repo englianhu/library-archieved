@@ -171,7 +171,7 @@ https://vk.com/englianhu?w=wall611842020_84
 🐾《问百度》🎼
 
 - [猫城仓库：scibrokes/real-time-fxcm/reference](https://github.com/scibrokes/real-time-fxcm/tree/master/reference)
-- [GitHub: englianhu/binary.com-interview-question/reference](https://github.com/englianhu/binary.com-interview-question/tree/master/reference)
+- [猫城：englianhu/binary.com-interview-question/reference](https://github.com/englianhu/binary.com-interview-question/tree/master/reference)
 - [微信：给大家分享一些电子书~](https://mp.weixin.qq.com/s/mX-8eLsVtW7r4SquX3TGwQ?fbclid=IwAR2upRLH6E8x1lAGNgoLptItZkGHdSBoDX0FXJdbWeCnUDk2xtGgXz1p2jg)
 - [喜欢“统计之美”的读者还喜欢](https://qciss.net/books/30490203)
 - [Free Programming Books](https://github.com/englianhu/free-programming-books)
@@ -189,7 +189,7 @@ https://vk.com/englianhu?w=wall611842020_84
 - [算法交易中的机器学习系列（一）](https://zhuanlan.zhihu.com/p/262260494) ❤️‍🔥
 - [Machine Learning for Algorithmic Trading (Official)](https://ml4trading.io) ❤️‍🔥
 - [ML for Trading (Exchange)](https://exchange.ml4trading.io) ❤️‍🔥
-- [GitHub精选](https://www.githubs.cn/awesome)
+- [GitHub（猫城）精选](https://www.githubs.cn/awesome)
 - [中国古代数学 - 教育史](https://www.gerenjianli.com/Mingren/28/da0lrs131s.html)
 - [数学的力量](http://www.mathpower.cn/shuxuejia)
 - [List of Free Learning Resources In Many Languages](https://github.com/englianhu/free-programming-books)
@@ -205,12 +205,13 @@ https://vk.com/englianhu?w=wall611842020_84
 - [书栈网](https://www.bookstack.cn/explore) ❤️‍🔥
 - [BOOKDOWN](https://bookdown.org) ❤️‍🔥
 - [Linux命令大全搜索工具 v1.8.2](https://www.bookstack.cn/read/linux-command-1.8.2/README.md) ❤️‍🔥
-- [GitHub : ML_Books](https://github.com/englianhu/ML_Books) ❤️‍🔥
-- [GitHub : 书籍 Book](https://github.com/englianhu/Book) ❤️‍🔥
+- [猫城：ML_Books](https://github.com/englianhu/ML_Books) ❤️‍🔥
+- [猫城：数学系学习资料](https://github.com/englianhu/njumath)
+- [猫城：书籍 Book](https://github.com/englianhu/Book) ❤️‍🔥
 - [Big Book of R](https://www.bigbookofr.com) ❤️‍🔥
 - [简书：高级R与Shiny应用](https://www.jianshu.com/p/e9250c06502a)
 - [知乎：量化投资学习推荐的书籍都有哪些？](https://www.zhihu.com/question/54727745)
-- [GitHub : Repository for distributing (some) stan-dev R packages](https://github.com/englianhu/r-packages)
+- [猫城：Repository for distributing (some) stan-dev R packages](https://github.com/englianhu/r-packages)
 - [汉斯 - 中文开源期刊（安全网）](https://www.hanspub.org) （[汉斯 - 中文开源期刊](http://www.hanspub.org)）
 - [中国知网](https://cdmd.cnki.com.cn)
 - [Library Genesis](https://libgen.is/setlang.php?lang=en)
@@ -240,6 +241,8 @@ https://vk.com/englianhu?w=wall611842020_84
 - [PDF之家](https://homeofpdf.com/index.html)
 - [无名图书](https://www.book123.info)
 - [kan Cloud看云](https://www.kancloud.cn/explore)
+- [国防工业出版社](http://www.ndip.cn/download/index/type/1.html)
+- [淘链客](https://toplinks.cc/s)
 
 ---
 
