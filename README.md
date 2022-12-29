@@ -29,13 +29,34 @@
 <br>
 <br>
 
+**大秦赋 (Chinese Emperor)**<br>
+春秋战国《*礼记•经解*》<br>
+孔子曰：『君子慎始，差若毫厘，缪以千里。』
+
+> <span style='color:#FFEBCD; background-color:#D2B48C;'>**《礼记·经解》孔子曰：**</span><span style='color:#A9A9A9'>*「君子慎始。差若毫厘，谬以千里。」*</span>[^1]
+
+*引用：[「快懂百科」《礼记•经解》](https://www.baike.com/wikiid/2225522569881832051?view_id=2tt3iw3blkq000)和[第一范文网：差之毫厘，谬以千里的故事](https://www.diyifanwen.com/chengyu/liuziyishangchengyugushi/2010051523105152347092749890.htm)和[「百度百科」春秋时期孔子作品《礼记•经解》](https://baike.baidu.com/item/%E7%A4%BC%E8%AE%B0%C2%B7%E7%BB%8F%E8%A7%A3/2523092)和[「當代中國」差之毫釐 謬以千里](https://www.ourchinastory.com/zh/2962/%E5%B7%AE%E4%B9%8B%E6%AF%AB%E9%87%90%20%E8%AC%AC%E4%BB%A5%E5%8D%83%E9%87%8C)*
+
+[^1]: [HTML Color Codes](https://html-color.codes)
+
 - [孔子学院为什么会失败？中国文化该如何走向世界？](https://view.inews.qq.com/k/20210420A03XGS00)
-- [【百度百科】孔子学院为何会失败？中国文化该如何走向世界？](https://baijiahao.baidu.com/s?id=1684878542008319314)
-- [【原创】孔子学院大量关闭原因与未来](https://www.jianshu.com/p/4cd06fabaef0)
-- [ 孔子学院海外传播现状及美国孔子学院遭拒的原因浅析](https://wenku.baidu.com/view/26dda6106d1aff00bed5b9f3f90f76c660374ccb.html)
-- [【今日头条】孔子学院为什么会失败？中国文化该如何走向世界？](https://www.toutiao.com/article/6901260292831953412/?app=news_article&timestamp=1606863367&use_new_style=1&req_id=20201202065607010026077213394BF044&group_id=6901260292831953412&tt_from=copy_link&utm_source=copy_link&utm_medium=toutiao_ios&utm_campaign=client_share&source=m_redirect&wid=1665068156693)
-- [博客园：【历史只是借鉴】 疫情连三年，家书抵万金。](https://www.cnblogs.com/englianhu/p/16377047.html)
-- [【脸谱】馬來西亞漢服運動 Hanfu Malaysia](https://www.facebook.com/hanfumalaysia)
+- [「百度百科」孔子学院为何会失败？中国文化该如何走向世界？](https://baijiahao.baidu.com/s?id=1684878542008319314)
+- [「原创」孔子学院大量关闭原因与未来](https://www.jianshu.com/p/4cd06fabaef0)
+- [ 「百度文库」孔子学院海外传播现状及美国孔子学院遭拒的原因浅析](https://wenku.baidu.com/view/26dda6106d1aff00bed5b9f3f90f76c660374ccb.html)
+- [「今日头条」孔子学院为什么会失败？中国文化该如何走向世界？](https://www.toutiao.com/article/6901260292831953412/?app=news_article&timestamp=1606863367&use_new_style=1&req_id=20201202065607010026077213394BF044&group_id=6901260292831953412&tt_from=copy_link&utm_source=copy_link&utm_medium=toutiao_ios&utm_campaign=client_share&source=m_redirect&wid=1665068156693)
+- [「博客园」：「历史只是借鉴」 疫情连三年，家书抵万金。](https://www.cnblogs.com/englianhu/p/16377047.html)
+- [「脸谱」馬來西亞漢服運動 Hanfu Malaysia](https://www.facebook.com/hanfumalaysia)
+- [史册号](https://www.shicehao.com)
+- [词林](https://www.cilin.org)
+- [族谱网](https://www.zupu.cn)
+- [历史网](https://www.lishi.net)
+- [人物介绍网](https://www.yuelishi.cn)
+- [百家有谱](https://www.baijiayoupu.com)
+- [历史记](https://www.lishiji.cn)
+- [中国人物传记网](https://www.chinarwzj.com)
+- [「百家诸子」中国哲学书电子化计划](https://ctext.org/zhs)
+- [當代中國](https://www.ourchinastory.com)
+- [第一范文网](https://www.diyifanwen.com)
 
 ## 学说
 
@@ -61,16 +82,16 @@
 - 🇮🇩印尼与Polish🇵🇱首都华夏学说、🇺🇦乌克兰与🇲🇾玻璃市学说、🇬🇧英国最高荣誉警察为Sir公爵、挟🇬🇧天子令🌏诸侯、警察乃🇺🇸美国人是也（夏朝开国皇帝大禹学说 : 祝你<s>岁月</s>碎月无<s>波澜</s>🇵🇱Polish，祝我<s>余</s>虞/禹🐟生不悲欢）、🇭🇺匈牙利---匈奴人学说、🇨🇿首都布拉格<s>Praha</s>Black Jack 21点学说、🇱🇦辽国耶律氏犹太人学说、🇻🇳金国完颜氏越南人学说、🇹🇼🇨🇳中国象棋楚河汉界学说、🌏亚洲秦国🇹🇭泰国/🇯🇵东瀛是也、🇪🇺欧洲秦国🇬🇧英国是也、地球🌏秦国🇺🇸美国是也（史记原著宦官司马迁、鬼谷子弟子孙膑庞涓俩---兵法家宦官孙膑、三黄五帝三五成群、《寻秦记》的赵盘---盘古开天辟地、女娲补天的故事---塑造粘土人形娃娃为兵马俑之说、笑傲江湖---越南越王勾践胡志明，明朝与江泽民与胡景涛学说），🚩☭🇷🇺商鞅变法、如同🇺🇸美国富兰克林·德拉诺·罗斯福与🇪🇺北约与🚩☭苏联红军约瑟夫·斯大林与🇮🇹贝尼托·阿米尔卡雷·安德烈亚·墨索里尼与🇩🇪卐阿道夫·希特勒与🇯🇵日本明治🎎天皇、清末民初，为世界二战（🌼织田信长京都不死鸟🐦《信长之野望》）至苏美冷战瓦解苏联红军🚩☭乃飞鸟尽良弓🚩☭藏之论
 - 🇪🇺欧洲最早的是意大利🇮🇹天主教、而✝基督教耶稣是圣母玛丽亚之子，🇮🇹[哥伦布发现新大陆](https://baike.baidu.com/item/%E5%93%A5%E4%BC%A6%E5%B8%83%E5%8F%91%E7%8E%B0%E6%96%B0%E5%A4%A7%E9%99%86/6811206)、而[天主教的起源](https://kknews.cc/history/okjrgk6.html)来自于公元前1003年🇮🇱。
 - 生肖Chinese Zodiac东方神明，蓄着须子的🇻🇳🚩☭越王胡志明Goat🐐、[左派和右派](https://baike.baidu.com/item/%E5%B7%A6%E6%B4%BE%E5%92%8C%E5%8F%B3%E6%B4%BE/5977871)、[论“除左籍”——科普左右划分基本标准](https://zhuanlan.zhihu.com/p/130715171)、《倚天屠龙记》中的范右使和杨左使、范蠡、范增、范雎🌾🍚🍙（🇬🇧米字、美国的日语称为：🇺🇸米国）、金朝（1115年—1234年），完颜阿骨打所建，享国119年。后金（1616年—1636年），努尔哈赤所建，仅存在20年（过渡时期）。[清朝前期叫大金国，和宋朝对峙的金国是一家的吗？](http://m.news.xixik.com/content/2c2a1620e65f0809/)、世界分别🚩☭东🇺🇸西楚汉之争[建国史话 (206): 冷战时期](https://www.voachinese.com/a/article-20120317-making-of-nation-206-143058266/947599.html)
-- [【百度百科】盘点英国当年的殖民地，哪些发展得非常好，很多成为了发达国家播](https://baijiahao.baidu.com/s?id=1682116544423085495)
-- [【百度百科】英国殖民地](https://baike.baidu.com/item/%E8%8B%B1%E5%9B%BD%E6%AE%96%E6%B0%91%E5%9C%B0/1073669)
-- [【馆】秦昭王时代的将相铁三角——魏冉、司马错、白起的征战之路（三）](http://www.360doc.com/content/16/1229/12/38291671_618628269.shtml)
-- [【馆】司马错拿下巴蜀，竟激活了一个胜利公式，让秦、汉、唐都受益无穷](http://www.360doc.com/content/22/0918/22/5512889_1048445265.shtml)
-- [【原创】灭蜀大将司马错：秦国统一的三大战役](https://www.lishixinzhi.com/lishilunwen/178620.html)
-- [【百度百科】战略家司马错：西进灭蜀、伐魏攻楚，为秦国逐鹿中原奠定基础播](https://baijiahao.baidu.com/s?id=1679635347125686323)
-- [【百度百科】从地图看春秋战国的版图变迁：550年，中国从大分裂走向了大一统](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9774531278572757086%22%7D&n_type=1&p_from=4)
+- [「百度百科」盘点英国当年的殖民地，哪些发展得非常好，很多成为了发达国家播](https://baijiahao.baidu.com/s?id=1682116544423085495)
+- [「百度百科」英国殖民地](https://baike.baidu.com/item/%E8%8B%B1%E5%9B%BD%E6%AE%96%E6%B0%91%E5%9C%B0/1073669)
+- [「馆」秦昭王时代的将相铁三角——魏冉、司马错、白起的征战之路（三）](http://www.360doc.com/content/16/1229/12/38291671_618628269.shtml)
+- [「馆」司马错拿下巴蜀，竟激活了一个胜利公式，让秦、汉、唐都受益无穷](http://www.360doc.com/content/22/0918/22/5512889_1048445265.shtml)
+- [「原创」灭蜀大将司马错：秦国统一的三大战役](https://www.lishixinzhi.com/lishilunwen/178620.html)
+- [「百度百科」战略家司马错：西进灭蜀、伐魏攻楚，为秦国逐鹿中原奠定基础播](https://baijiahao.baidu.com/s?id=1679635347125686323)
+- [「百度百科」从地图看春秋战国的版图变迁：550年，中国从大分裂走向了大一统](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9774531278572757086%22%7D&n_type=1&p_from=4)
 - [名将司马错有多厉害？历经3任秦王一直被重用，位高权重而得善终](https://baijiahao.baidu.com/s?id=1640181760652238276)
-- [【百度百科】司马错伐蜀，真的没那么容易，秦国历经三次才最终定蜀](https://baijiahao.baidu.com/s?id=1672536956606025945)
-- [【百度百科】司马错，常被后世忽视的战国时代“唯二”战略家之一](https://baijiahao.baidu.com/s?id=1667270194796582891)
+- [「百度百科」司马错伐蜀，真的没那么容易，秦国历经三次才最终定蜀](https://baijiahao.baidu.com/s?id=1672536956606025945)
+- [「百度百科」司马错，常被后世忽视的战国时代“唯二”战略家之一](https://baijiahao.baidu.com/s?id=1667270194796582891)
 - [量化对冲之王Two Sigma首发基金布局在岸期货市场](https://www.yicai.com/news/100597911.html)
 - [“石油人民币”意义巨大！专家：这不是与美元“争霸”](http://v3-mllqv.onewsvod.com/138586e37de8558eb8fc77084ab12a48/6399b57b/video/tos/cn/tos-cn-ve-4/71a76fb4dde047f898dcf5454a05e409/?a=34&ch=0&cr=0&dr=1&lr=xigua&cd=0%7C0%7C0%7C0&cv=1&br=460&bt=460&cs=0&ds=1&ft=k7FqQVVywIiRZm8Zmo~hFJ4YA0piuV6w~jKJnaN1dG0P3-A&mime_type=video_mp4&qs=0&rc=NztpOmU8NTpmOWhkZzs2OEBpamp5ZWk6Zm41aDMzNDczM0AzMjYyLy41X2AxYTZeM141YSMyam5wcjQwcWBgLS1kLTBzcw%3D%3D&l=2022121418331801021214413018EB09BE&btag=30000&docid=7176558786277016116&cp=cn-toutiao&itemtype=inline_video&version=2&mibusinessId=miuibrowser&env=production)
 - [中国海外租借港口 - 观测站及军事基地](https://www.meipian.cn/39d49odl) ❤️‍🔥
@@ -80,7 +101,7 @@
 - [海外党建——“一带一路”建设的强大动力](http://dangjian.people.com.cn/n1/2016/0825/c117092-28666127.html)
 - [世界军火市场风向变了，中美企业快占满前十名，俄罗斯一家都没了](https://open.toutiao.com/a7174323153001251363/?utm_campaign=open&utm_medium=webview&utm_source=mi_mcc_api_2019&req_id=202212121755070101512130790614D2ED&device_brand=&dt=Redmi+7A&label=mi_mcc_api&a_t=AaRKWL08j3rRMSUb8sg58HBeej1MXvUx8ewq7bjQErFUi16DwEcxgpXSUzmuNQ8y5CUFLTWW&gy=cc1072953bd514b388e5175566825bac10a66f494272f91362dd82514b2114163089e6b2bfd2fb061b1e64df74d4854ef4fdb3e9afc8645c98d3e060aea27cecdb1eb9a62a021237d546d9a2d01d2be382cf143ceb37f46c1fe89872dda53088be29cb3946272c40af1ef7c4484d59093365afecd992ca52c6a724f60aed4fe9&crypt=4498&item_id=7174323153001251363&bizDocId=toutiao_newhome_7174323153001251363)
 - [解放军的军衔级别](https://haokan.baidu.com/v?pd=wisenatural&vid=5091177606249079530&source=)
-- [【一带一路】在沙地阿拉伯建高铁](https://open-hl.toutiao.com/a7032503569299440136/?utm_campaign=open&utm_medium=webview&utm_source=mi_mcc_api_2019&req_id=202211221157210102080370880AFC1B82&device_brand=&dt=Redmi+7A&a_t=A8hQBsR7xRmBEteJWoRLsYDWT1u2FgVyKJLWmKmupjikYNVHHP7EKXziYTiZk878aZENV7cfV&gy=dc511c6dd241f199c2b11326a97a50a9fbd32fa95b2841cd2f77fbbfb0469a73aae2efdcc8f7231b107a04b231810cb75e08aebc0b16a5fdc4ca57a6d7f18abbdd25f0e983bdb905b8eccd66ef100e465697af74f15451c65d5d695bc5cec4594778a68d25156bedf6f26d073c6aca493c85ae3d9adcb24742ebaa764587f68f&crypt=9535&label=news_xiaomi_extra_video_feed&item_id=7032503569299440136&bizDocId=toutiao_newhome_7032503569299440136)
+- [「一带一路」在沙地阿拉伯建高铁](https://open-hl.toutiao.com/a7032503569299440136/?utm_campaign=open&utm_medium=webview&utm_source=mi_mcc_api_2019&req_id=202211221157210102080370880AFC1B82&device_brand=&dt=Redmi+7A&a_t=A8hQBsR7xRmBEteJWoRLsYDWT1u2FgVyKJLWmKmupjikYNVHHP7EKXziYTiZk878aZENV7cfV&gy=dc511c6dd241f199c2b11326a97a50a9fbd32fa95b2841cd2f77fbbfb0469a73aae2efdcc8f7231b107a04b231810cb75e08aebc0b16a5fdc4ca57a6d7f18abbdd25f0e983bdb905b8eccd66ef100e465697af74f15451c65d5d695bc5cec4594778a68d25156bedf6f26d073c6aca493c85ae3d9adcb24742ebaa764587f68f&crypt=9535&label=news_xiaomi_extra_video_feed&item_id=7032503569299440136&bizDocId=toutiao_newhome_7032503569299440136)
 - [构建面向新时代的中阿命运共同体 习近平提出中国倡议](http://cpc.people.com.cn/n1/2022/1210/c164113-32584714.html)
 - [德媒：中国正打造自己的机器人帝国，将许多西方大国甩在身后](http://v1-mllqv.onewsvod.com/6e75ae1e75368c03cf0b3e64f2d1b516/6398614a/video/tos/cn/tos-cn-ve-4/321c3ce511b140c3a429898e6147310a/?a=34&ch=0&cr=0&dr=1&lr=xigua&cd=0%7C0%7C0%7C0&cv=1&br=536&bt=536&cs=0&ds=1&ft=k7FqQVVywIiRZm8Zmo~hFJ4YA0piIITw~jKJHaN1dG0P3-A&mime_type=video_mp4&qs=0&rc=aWhnNGdkaGg3ZzZkZmY4Z0BpanByZGY6Zm41aDMzNDczM0A1MzUxYzQuNS0xNGMzLy02YSNyamkvcjQwcWBgLS1kLWFzcw%3D%3D&l=2022121318215501015010107824C4BE3C&btag=30000&docid=7176556975227044408&cp=cn-toutiao&itemtype=inline_video&version=2&mibusinessId=miuibrowser&env=production)
 - [中国军网](https://www.81.cn)
@@ -158,14 +179,6 @@ https://vk.com/englianhu?w=wall611842020_84
 - [明朝的火器很强大？看看明朝与同时期欧洲的火器对比就知道了](https://baijiahao.baidu.com/s?id=1736022093984114925&wfr=spider&for=pc&searchword=%E6%98%8E%E4%BB%A3%E7%81%AB%E6%9E%AA%E8%A5%BF%E6%B4%8B%E5%86%9B%E4%BA%8B%E6%AD%A6%E5%99%A8)
 - 🇯🇵日本战国与🇹🇼🇨🇳中国明朝与🇪🇺欧洲中世纪文艺复兴时一个时期、🇯🇵明治维新励志学习🇪🇺欧洲技术
 - [蒙古究竟是依靠什么撑起经济，建立四大汗国？](https://baijiahao.baidu.com/s?id=1590989201480538828&wfr=spider&for=pc&searchword=%E5%8F%A4%E4%BB%A3%E8%92%99%E5%8F%A4%E8%A5%BF%E5%BE%81%E5%A6%82%E4%BD%95%E5%8F%91%E5%B1%95%E7%BB%8F%E6%B5%8E)
-- [史册号](https://www.shicehao.com)
-- [词林](https://www.cilin.org)
-- [族谱网](https://www.zupu.cn)
-- [历史网](https://www.lishi.net)
-- [人物介绍网](https://www.yuelishi.cn)
-- [百家有谱](https://www.baijiayoupu.com)
-- [历史记](https://www.lishiji.cn)
-- [中国人物传记网](https://www.chinarwzj.com)
 <br>
 <br>
 
@@ -232,7 +245,7 @@ https://vk.com/englianhu?w=wall611842020_84
 - [ResearchGates 研究之门](http://researchgates.net)
 - [GitHub Community 猫舍交流社区](https://github.com/orgs/community)
 - [十大论文网站排名 大雅上榜 知网中国知名的论文网站之一](https://www.yezicc.com/keji/2021051824925.html) ❤️‍🔥
-- [【馆】个人图书馆](http://www.360doc.com)
+- [「馆」个人图书馆](http://www.360doc.com)
 - [🎓研究生2.0](https://researcher20.com)
 - [ZOL中关村在线 - 引领科技，指导消费](https://www.zol.com.cn)
 - [cnki中国知网 - 中国知识基础设施工程](https://www.cnki.net)
