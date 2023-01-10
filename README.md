@@ -39,6 +39,7 @@
 
 [^1]: [HTML Color Codes](https://html-color.codes)
 
+- [](https://new.qq.com/rain/a/20190919A00VLC00)
 - [孔子学院为什么会失败？中国文化该如何走向世界？](https://view.inews.qq.com/k/20210420A03XGS00)
 - [「百度百科」孔子学院为何会失败？中国文化该如何走向世界？](https://baijiahao.baidu.com/s?id=1684878542008319314)
 - [「原创」孔子学院大量关闭原因与未来](https://www.jianshu.com/p/4cd06fabaef0)
