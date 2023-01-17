@@ -58,6 +58,7 @@
 - [「百家诸子」中国哲学书电子化计划](https://ctext.org/zhs)
 - [當代中國](https://www.ourchinastory.com)
 - [第一范文网](https://www.diyifanwen.com)
+- [知识贝壳](https://www.zsbeike.com)
 
 ## 学说
 
