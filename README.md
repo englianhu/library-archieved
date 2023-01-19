@@ -60,6 +60,7 @@
 - [第一范文网](https://www.diyifanwen.com)
 - [知识贝壳](https://www.zsbeike.com)
 - [趣历史](http://www.qulishi.com/renwu/qinshihuang)
+- [古诗文网](https://www.gushiwen.cn)
 
 ## 学说
 
