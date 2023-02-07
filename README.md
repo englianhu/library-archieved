@@ -61,6 +61,7 @@
 - [知识贝壳](https://www.zsbeike.com)
 - [趣历史](http://www.qulishi.com/renwu/qinshihuang)
 - [古诗文网](https://www.gushiwen.cn)
+- [5000言](https://5000yan.com)
 
 ## 学说
 
