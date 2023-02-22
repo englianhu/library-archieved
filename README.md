@@ -62,6 +62,7 @@
 - [趣历史](http://www.qulishi.com/renwu/qinshihuang)
 - [古诗文网](https://www.gushiwen.cn)
 - [5000言](https://5000yan.com)
+- [汉典](https://www.zdic.net)
 
 ## 学说
 
