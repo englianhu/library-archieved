@@ -63,6 +63,7 @@
 - [古诗文网](https://www.gushiwen.cn)
 - [5000言](https://5000yan.com)
 - [汉典](https://www.zdic.net)
+- [学术交流联盟](http://bbs.97fc.com)
 
 ## 学说
 
