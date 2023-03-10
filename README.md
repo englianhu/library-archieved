@@ -64,6 +64,7 @@
 - [5000言](https://5000yan.com)
 - [汉典](https://www.zdic.net)
 - [学术交流联盟](http://bbs.97fc.com)
+- [海词](http://www.cihai123.com)
 - [arXiv](https://arxiv.org)
 
 ## 学说
