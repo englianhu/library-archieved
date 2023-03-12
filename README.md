@@ -165,6 +165,22 @@
 > 🚩🦔不忘初心，方得始终。
 https://vk.com/englianhu?w=wall611842020_84
 
+> 《黄埔军校》<br>
+> [《探索·发现》 20111120 黄埔军校（一）：到黄埔去](https://tv.cctv.com/2011/11/20/VIDE1355518335406652.shtml?spm=C95797228340.P3XSH3djsU2B.0.0)<br>
+> [《探索·发现》 20111121 黄埔军校（二）：黄埔一期](https://tv.cctv.com/2011/11/21/VIDE1355518333004612.shtml?spm=C95797228340.P3XSH3djsU2B.0.0)<br>
+> [《探索·发现》 20111122 黄埔军校（三）：政治教育](https://tv.cctv.com/2011/11/22/VIDE1355518336207665.shtml?spm=C95797228340.P3XSH3djsU2B.0.0)<br>
+> [《探索·发现》 20111123 黄埔军校（四）：东征 东征](https://tv.cctv.com/2011/11/23/VIDE1355518332180598.shtml?spm=C95797228340.P3XSH3djsU2B.0.0)<br>
+> [《探索·发现》 20111124 黄埔军校（五）：北伐风云](https://tv.cctv.com/2011/11/24/VIDE1355518325230479.shtml?spm=C95797228340.P3XSH3djsU2B.0.0)<br>
+> [《探索·发现》 20111125 黄埔军校（六）：黄埔女兵](https://tv.cctv.com/2011/11/26/VIDE1355518337010679.shtml?spm=C95797228340.P3XSH3djsU2B.0.0)<br>
+> [《探索·发现》 20111126 黄埔军校（七）：同仇敌忾](https://tv.cctv.com/2011/11/26/VIDE1355518328439539.shtml?spm=C95797228340.P3XSH3djsU2B.0.0)<br>
+> [《探索·发现》 20111127 黄埔军校（八）：浴血奋战](https://tv.cctv.com/2011/11/28/VIDE1355518327657522.shtml?spm=C95797228340.P3XSH3djsU2B.0.0)<br>
+> [《探索·发现》 20111128 黄埔军校（九）：铁血黄埔](https://tv.cctv.com/2011/11/28/VIDE1355518326860509.shtml?spm=C95797228340.P3XSH3djsU2B.0.0)<br>
+> [《探索·发现》 20111129 黄埔军校（十）：大决战](https://tv.cctv.com/2011/11/29/VIDE1355518329257550.shtml?spm=C95797228340.P3XSH3djsU2B.0.0)<br>
+> [《探索·发现》 20111130 黄埔军校（十一）：黄埔情深](https://tv.cctv.com/2011/12/01/VIDE1355518324434451.shtml?spm=C95797228340.P3XSH3djsU2B.0.0)<br>
+> [《探索·发现》 20111201 黄埔军校（十二）：天下黄浦是一家](https://tv.cctv.com/2011/12/01/VIDE1355518326042492.shtml?spm=C95797228340.P3XSH3djsU2B.0.0)<br>
+
+*出处：[探索发现《黄埔军校》全十二集纪录片](https://tv.cctv.com/2012/12/15/VIDA1355518315991376.shtml)*
+
 > 《学习强国》<br>
 > [《追光》第一集：强国必须强军](https://news.cctv.com/2022/10/04/ARTI6s4mHfV4VBPvNI8U2tfp221004.shtml)<br>
 > [《追光》第二集：铸牢强军之魂](https://news.cctv.com/2022/10/04/ARTIJEcTtKZwkTOrH3J0GW96221004.shtml)<br>
