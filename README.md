@@ -68,6 +68,7 @@
 - [汉典](https://www.zdic.net)
 - [学术交流联盟](http://bbs.97fc.com)
 - [海词](http://www.cihai123.com)
+- [X-MOL学术平台](https://www.x-mol.com)
 - [arXiv](https://arxiv.org)
 
 ## 学说
