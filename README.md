@@ -71,6 +71,8 @@
 - [828啦](https://www.828la.com)
 - [X-MOL学术平台](https://www.x-mol.com)
 - [arXiv](https://arxiv.org)
+- [5000言](https://gwgz.5000yan.com)
+- [古诗词网](https://www.gushici.net)
 
 ## 学说
 
