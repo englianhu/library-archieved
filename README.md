@@ -317,6 +317,7 @@ https://vk.com/englianhu?w=wall611842020_84
 - [infoQ 促进软件开发及相关领域知识与创新的传播](https://www.infoq.cn)
 - [Academia 学术界](https://www.academia.edu)
 - [ResearchGates 研究之门](http://researchgates.net)
+- [CORE](https://core.ac.uk)
 - [GitHub Community 猫舍交流社区](https://github.com/orgs/community)
 - [十大论文网站排名 大雅上榜 知网中国知名的论文网站之一](https://www.yezicc.com/keji/2021051824925.html) ❤️‍🔥
 - [「馆」个人图书馆](http://www.360doc.com)
