@@ -85,6 +85,7 @@
 - [arXiv](https://arxiv.org)
 - [5000言](https://gwgz.5000yan.com)
 - [古诗词网](https://www.gushici.net)
+- [千篇国学](https://www.qianp.com)
 
 ## 学说
 
