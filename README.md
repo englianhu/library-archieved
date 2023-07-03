@@ -26,7 +26,10 @@
 
 🐾《子曰》🎼
 
-[**《百家争鸣》**](https://baike.baidu.com/item/%E7%99%BE%E5%AE%B6%E4%BA%89%E9%B8%A3/5549)
+- [天下第一师：徒弟鬼谷子孔子](https://k.sina.cn/article_6415709739_17e67f62b001003tr5.html)
+- [鬼谷子与孔子相比，谁的教育更成功](https://ishare.ifeng.com/c/s/7pGA2LYsyOT)
+- [传奇人物鬼谷子与孔子的渊源, 隐藏于战国时代的秘密](https://k.sina.cn/article_6438621990_17fc593260010050w9.html)
+- [**《百家争鸣》**](https://baike.baidu.com/item/%E7%99%BE%E5%AE%B6%E4%BA%89%E9%B8%A3/5549)
 <br>
 <audio controls loop autoplay src="文艺坊曲库/子曰.webm" controls></audio>
 <br>
@@ -341,6 +344,7 @@ https://vk.com/englianhu?w=wall611842020_84
 - [豆丁](https://www.docin.com)
 - [掌桥科研](https://www.zhangqiaokeyan.com)
 - [💻PDF之家](https://homeofpdf.com/index.html)
+- [淘链客](https://www.taolinks.cc/s)
 - [PDF之家](https://pdfzj.com)
 - [无名图书](https://www.book123.info)
 - [kan Cloud看云](https://www.kancloud.cn/explore)
