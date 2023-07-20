@@ -310,6 +310,7 @@ https://vk.com/englianhu?w=wall611842020_84
 - [猫城：ML_Books](https://github.com/englianhu/ML_Books) ❤️‍🔥
 - [猫城：数学系学习资料](https://github.com/englianhu/njumath)
 - [猫城：书籍 Book](https://github.com/englianhu/Book) ❤️‍🔥
+- [猫城：常用书籍](https://github.com/englianhu/general-books)
 - [猫城：收藏的一些经典的电子书(ebook) （约10万本）](https://github.com/englianhu/ebooks) ❤️‍🔥
 - [Big Book of R](https://www.bigbookofr.com) ❤️‍🔥
 - [简书：高级R与Shiny应用](https://www.jianshu.com/p/e9250c06502a)
