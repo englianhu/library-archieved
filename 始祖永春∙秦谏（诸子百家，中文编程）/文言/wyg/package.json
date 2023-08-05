@@ -1,0 +1,86 @@
+{
+  "name": "@wenyan/wyg",
+  "version": "0.2.3",
+  "description": "文淵閣 - Package management for Wenyan Lang",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "unpkg": "dist/runtime.umd.js",
+  "scripts": {
+    "dev": "rollup -c --watch",
+    "build": "npm run typings && rollup -c",
+    "typings": "tsc --emitDeclarationOnly",
+    "publish:ci": "npm run build && npm publish --access public",
+    "release": "bump --commit --push --tag && npm run publish:ci",
+    "lint": "eslint src/**/*.ts",
+    "lint:fix": "npm run lint -- --fix",
+    "test": "jest"
+  },
+  "bin": {
+    "wyg": "dist/cli.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenyan-lang/wyg.git"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.ts": [
+      "eslint --fix",
+      "git add"
+    ],
+    "registry-packages.ts": [
+      "npm run build:registry",
+      "git add registry-index.json"
+    ]
+  },
+  "keywords": [
+    "wenyan",
+    "wenyan-lang",
+    "npm",
+    "packages"
+  ],
+  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wenyan-lang/wyg/issues"
+  },
+  "homepage": "https://github.com/wenyan-lang/wyg#readme",
+  "devDependencies": {
+    "@antfu/eslint-config-ts": "^0.2.10",
+    "@rollup/plugin-json": "^4.0.1",
+    "@rollup/plugin-typescript": "2.0.2",
+    "@types/fs-extra": "^8.0.1",
+    "@types/jest": "^24.0.25",
+    "@types/json-stable-stringify": "^1.0.32",
+    "@types/node": "^13.1.5",
+    "@types/update-notifier": "^2.5.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-jest": "^23.3.0",
+    "husky": "3.1.0",
+    "jest": "^24.9.0",
+    "json-stable-stringify": "^1.0.1",
+    "lint-staged": "9.5.0",
+    "rollup": "^1.29.0",
+    "rollup-plugin-dts": "1.1.13",
+    "rollup-plugin-uglify": "^6.0.4",
+    "ts-jest": "^24.3.0",
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.4",
+    "version-bump-prompt": "^6.0.1"
+  },
+  "dependencies": {
+    "axios": "^0.19.1",
+    "commander": "^4.1.0",
+    "consola": "^2.11.3",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^8.1.0",
+    "update-notifier": "^4.0.0"
+  }
+}

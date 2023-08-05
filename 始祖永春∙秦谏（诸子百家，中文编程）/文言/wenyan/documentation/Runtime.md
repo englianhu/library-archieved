@@ -1,0 +1,1 @@
+This document is moved to [the wiki page](https://github.com/wenyan-lang/wenyan/wiki/Brower-Runtime)
