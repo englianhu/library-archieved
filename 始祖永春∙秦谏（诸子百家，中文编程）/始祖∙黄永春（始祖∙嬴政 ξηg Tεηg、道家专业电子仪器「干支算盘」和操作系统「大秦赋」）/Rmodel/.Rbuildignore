@@ -1,0 +1,11 @@
+^renv$
+^renv\.lock$
+^.*\.Rproj$
+^\.Rproj\.user$
+^appveyor\.yml$
+^\.github$
+^Rmodel\.Rproj$
+^LICENSE\.md$
+^Rmodel\.Rcheck$
+^Rmodel.*\.tar\.gz$
+^Rmodel.*\.tgz$
