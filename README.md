@@ -3,14 +3,13 @@
 
 ---
 
-[<img src='文艺坊图库/RStudioCloud.png' height='20'>](https://rstudio.cloud) [<img src='文艺坊图库/RStudioCom2.png' height='20'>](https://community.rstudio.com/new-topic?category=shiny&tags=shiny) [![](文艺坊图库/shiny-badge.svg)](https://www.shinyapps.io)
-
 # 《始祖永春•秦谏---大秦赋》 
 
 **图书馆 (library)**<br>
-书中自有黄金屋，书中自有颜如玉。
+- 书中自有黄金屋，书中自有颜如玉。
+- 万般皆下品，唯有读书高。
 
-<img src='文艺坊图库/baike.jpg' width='200'/>
+<img src='文艺坊图库/baike.png' width='200'/>
 
 ## 礼乐制度
 
