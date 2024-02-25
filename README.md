@@ -1,5 +1,5 @@
 
-<img src='文艺坊图库/世博量化.png' height='100'> <img src='文艺坊图库/大秦赋 - 北京大学.png' height='100'>
+<img src='诸子百家考工记/世博量化.png' height='100'> <img src='诸子百家考工记/大秦赋 - 北京大学.png' height='100'>
 
 ---
 
@@ -9,7 +9,7 @@
 - 书中自有黄金屋，书中自有颜如玉。
 - 万般皆下品，唯有读书高。
 
-<img src='文艺坊图库/baike.png' width='200'/>
+<img src='诸子百家考工记/baike.png' width='200'/>
 
 印裔（祖籍印尼和南亚）尽弃，瓦釜雷鸣；
 莫忘初衷，方得始终。
@@ -25,7 +25,7 @@
 
 ## 礼乐制度
 
-![](文艺坊图库/红旗礼逆袭.gif)
+![](诸子百家考工记/红旗礼逆袭.gif)
 
 《量化吟》<br>
 🚩高频量化，对冲基金；<br>
@@ -42,7 +42,7 @@
 - [传奇人物鬼谷子与孔子的渊源, 隐藏于战国时代的秘密](https://k.sina.cn/article_6438621990_17fc593260010050w9.html)
 - [**《百家争鸣》**](https://baike.baidu.com/item/%E7%99%BE%E5%AE%B6%E4%BA%89%E9%B8%A3/5549)
 <br>
-<audio controls loop autoplay src="文艺坊曲库/子曰.webm" controls></audio>
+<audio controls loop autoplay src="诸子百家诗经与古诗源/子曰.webm" controls></audio>
 <br>
 <br>
 
@@ -369,5 +369,5 @@ https://vk.com/englianhu?w=wall611842020_84
 
 ---
 
-[<img src="文艺坊图库/Scibrokes.png" height="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
-<span style='color:RoyalBlue'>**[<img src="文艺坊图库/Scibrokes.png" height="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
+[<img src="诸子百家考工记/世博量化.png" height="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
+<span style='color:RoyalBlue'>**[<img src="诸子百家考工记/世博量化.png" height="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
